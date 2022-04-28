@@ -55,12 +55,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  # - icon: twitter
-  #   icon_pack: fab
-  #   link: https://twitter.com/GeorgeCushen
-  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-  #   icon_pack: fas
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/GeorgeCushen
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/zelinewang
@@ -90,4 +90,4 @@ I am Zelin Wang. I am an undergraduate student from Nanjing University, currentl
 
 我是王泽霖，南京大学23届本科生，目前在UC Berkeley进行学年交换。我的专业是地理信息科学，同时我对计算机科学也有着强烈的兴趣。我的研究兴趣是人工智能，机器学习/深度学习，软件工程/软件开发，以及任何GIS与CS之间的学科交叉研究。
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1ox_1p9Iz628EoozqW-U5NK9SoW9WAF6-/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
