@@ -25,8 +25,8 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: wzl106097395@gmail.com/zelinewang@berkeley.edu
+  phone: (+1)510 502 6168
   address:
     street: 450 Serra Mall
     city: Stanford
