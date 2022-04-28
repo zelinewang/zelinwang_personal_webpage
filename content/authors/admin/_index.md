@@ -20,7 +20,7 @@ bio: Exchanging Student at Berkeley/ Nanjing University 23'/ Computer Science an
 interests:
   - Artificial Intelligence
   - Machine Learning/Deep Learning
-  - Software Engineer
+  - Software Engineering
 
 # Education to show in About widget
 education:
@@ -56,17 +56,17 @@ social:
     icon_pack: fas
     link: '/#contact'
   # - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
+  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #   icon_pack: fas
+  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/zelinewang
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/zelin-wang-7ba496224/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -74,16 +74,20 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: fab
+  link: https://drive.google.com/file/d/1ox_1p9Iz628EoozqW-U5NK9SoW9WAF6-/view?usp=sharing
+  
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'zelinewang@berkeley.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Zelin Wang. I am an undergraduate student from Nanjing University, currently studying Computer Science at UC Berkeley for one year on BISP program. My major in Nanjing University is Geographic Information Science and I have a solid background in Computer Science. My research interests include Artificial Intelligence, Machine Learning/Deep Learning, Software Engineering, Combination of GIS and ML/DL.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+我是王泽霖，南京大学23届本科生，目前在UC Berkeley进行学年交换。我的专业是地理信息科学，同时我对计算机科学也有着强烈的兴趣。我的研究兴趣是人工智能，机器学习/深度学习，软件工程/软件开发，以及任何GIS与CS之间的学科交叉研究。
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1ox_1p9Iz628EoozqW-U5NK9SoW9WAF6-/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
