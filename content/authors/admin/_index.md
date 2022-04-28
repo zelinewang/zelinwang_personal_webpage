@@ -46,7 +46,6 @@ education:
     - course: Concepts in Computing with Data
       institution: UC Berkeley
       time: Fall 21
-
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -74,9 +73,9 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: uploads/resume.pdf
-- icon: cv
-  icon_pack: fab
-  link: https://drive.google.com/file/d/1ox_1p9Iz628EoozqW-U5NK9SoW9WAF6-/view?usp=sharing
+  - icon: cv
+    icon_pack: fab
+    link: https://drive.google.com/file/d/1ox_1p9Iz628EoozqW-U5NK9SoW9WAF6-/view?usp=sharing
   
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
